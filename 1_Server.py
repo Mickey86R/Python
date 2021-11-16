@@ -1,5 +1,4 @@
 import socket
-import time
 
 IP = "10.0.0.113"
 PORT = 7800
@@ -22,8 +21,3 @@ while True:
 
 server.close()
 print("Сервер закрыт")
-
-
-
-
-#python C:\Users\Anony\Documents\Server.py
