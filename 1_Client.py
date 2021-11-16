@@ -1,5 +1,4 @@
 import socket
-import time
 
 IP = "10.0.0.113"
 PORT = 7800
@@ -18,8 +17,3 @@ while True:
     break
 
 client.close()
-
-
-
-
-#python C:\Users\Anony\Documents\Client.py
